@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 16 16" role="img" aria-label="Small-size pyramids mark in white on dark, drawn on a 16 by 16 grid: a pyramid, a tapered obelisk with a pointed tip and a half-disc sun standing apart, reading A I D">
+<rect width="16" height="16" fill="#111317"></rect>
+<g fill="#ECE8DF">
+<polygon points="0.8,11.5 3.8,5 6.8,11.5"></polygon>
+<polygon points="7.6,11.5 9.8,11.5 9.45,7.4 8.7,6.2 7.95,7.4"></polygon>
+<path d="M10.6,11.5 A2.3,2.3 0 0 1 15.2,11.5 Z"></path>
+</g>
+</svg>
